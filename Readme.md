@@ -19,6 +19,6 @@ Se realizará una introducción/repaso a Python y se entregará material suplmen
 
    1. Material suplementario: Tutorial de instalación de [Anaconda](https://github.com/dtravisany/ACI777/blob/main/00_instalar_anaconda/README.md)
    2. Material suplementario: Introducción a [Jupyter Notebooks](https://github.com/dtravisany/ACI777/blob/main/01_Jupyter_notebooks/README.md)
-   3. Práctico en Python en Jupyter [Notebooks](notebooks/Clase1.ipynb), es necesario descargar estos [datos](data/cars.csv) en la misma carpeta 
-   4. Repaso de Python en [Jupyter Notebooks: primera parte](notebooks/RepasoPython1.ipynb)
+   3. Práctico en Python en Jupyter [Notebooks](https://github.com/malegria01/AnalisisDatos/blob/main/notebooks/Clase1.ipynb), es necesario descargar estos [datos](https://github.com/malegria01/AnalisisDatos/blob/main/data/cars.csv) en la misma carpeta 
+   4. Repaso de Python en [Jupyter Notebooks: primera parte](https://github.com/malegria01/AnalisisDatos/blob/main/notebooks/RepasoPython1.ipynb)
    
